@@ -18,7 +18,8 @@ a button on the left of the screen
 THis application will run in the browser. It will use the OpenWeather API to retrieve weather data. The application will utilize local storage to store previous 
 search data. Clone the project and open the application in a browser to be able to run and use the application.
 
-##SCREENSHOT
+##SCREENSHOT![image](https://user-images.githubusercontent.com/111549689/218364336-63017b13-8f1f-459f-ad75-dfd0ffd02744.png)
+
 
 ## License
 MIT License
